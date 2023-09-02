@@ -1,2 +1,2 @@
 #!/bin/bash
-chwod 754 hello
+chmod 754hello
