@@ -3,10 +3,6 @@ cd root/alx-system_engineering-devops/0x02-shell_redirections#
 echo "input file name"
 read filename
 echo "#!/bin/bash" > ${filename}
-answer:"aswer_task"
-read -p "enter the answer:"
-'$answer'
-chmod u+x "filename"
 read -p "pleace enter the commit:"
 message:"commit_message"
 git add .
